@@ -1,0 +1,88 @@
+{
+	"variables": [],
+	"info": {
+		"name": "springcloud-m2-configserver-git",
+		"_postman_id": "3666d6a2-d75c-3031-ace1-93c9bed4e97e",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:8888/s1rates/dev",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8888/s1rates/dev",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8888/s1rates/default",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8888/s1rates/default",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8888/s2rates/qa",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8888/s2rates/qa",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8888/s1rates-default.properties",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8888/s1rates-default.properties",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8888/s1rates-default.yml",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8888/s1rates-default.yml",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8888/s1rates-default.json",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8888/s1rates-default.json",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8888/s1rates/perf",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8888/s1rates/perf",
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

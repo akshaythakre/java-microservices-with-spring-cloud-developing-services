@@ -1,0 +1,88 @@
+{
+	"variables": [],
+	"info": {
+		"name": "springcloud-m1-startup",
+		"_postman_id": "197671c6-8cf5-f4ce-aa57-e80beb1e2b1a",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:8080/greeting",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8080/greeting",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/health",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8080/health",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/beans",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8080/beans",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/env",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8080/env",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/metrics/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8080/metrics/",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/mappings",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8080/mappings",
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/trace",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": "localhost:8080/trace",
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
